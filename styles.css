@@ -201,7 +201,6 @@ body{
 }
 
 .sidebar-grid{ 
-	border: 1px solid blueviolet;
 	width: 25%;
 	flex: 1 1 auto;
 	margin-top: 26px;
